@@ -1,0 +1,4 @@
+POST http://localhost/createUser
+Content-Type: application/x-www-form-urlencoded
+
+name=test6&email=test6@example.com
