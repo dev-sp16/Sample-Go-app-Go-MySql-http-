@@ -1,4 +1,4 @@
-POST http://localhost/createUser
+POST http://localhost:80/createUser
 Content-Type: application/x-www-form-urlencoded
 
 name=test6&email=test6@example.com
